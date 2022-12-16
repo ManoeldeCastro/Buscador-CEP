@@ -7,6 +7,7 @@
   background: linear-gradient(#121212, #212b46);
 }
 .title {
+  text-align: center;
   font-size: 85px;
   color: #fff;
   animation: flipTitle 2s;
