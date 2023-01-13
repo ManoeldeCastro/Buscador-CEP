@@ -11,7 +11,7 @@ function App() {
   async function handleSearch() {
     // 59091130/json/
     if (input === '') {
-      alert('Preencha algum CEP');
+      alert('Preencha com um cep valido');
       return;
     }
     try {
